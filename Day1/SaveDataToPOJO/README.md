@@ -1,5 +1,5 @@
-To compile the application
-mvn clean compile
+### To compile the application
+> mvn clean compile
 
-To run the application
-mvn exec:exec
+### To run the application
+> mvn exec:exec
