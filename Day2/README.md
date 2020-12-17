@@ -1,1 +1,1 @@
-These are Scala Lab exercises.
+These are Java Lab exercises
