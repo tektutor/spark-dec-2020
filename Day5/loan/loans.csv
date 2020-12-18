@@ -1,0 +1,5 @@
+custID,fname,lname,typeOfLoan,amountInINR
+1,Santosh,Kumar,Personal,500000
+2,Arun,Raaj,Car,340000
+1,Santosh,Kumar,Home Loan,1500000
+3,Priyanka,Gunraj,Bike Loan,85000
