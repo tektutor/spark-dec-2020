@@ -5,8 +5,11 @@ object Main {
       if ( args.length > 0 )
       {
          val demo = new Demo();
-         demo.computeSquare( args(0).toInt )
-         demo.computeCube( args(0).toInt )
+
+	 val inputNum = args(0).toInt
+
+         demo.computeSquare( inputNum )
+         demo.computeCube( inputNum )
       }
       else {
          println ( "Error, you must supply one number as argument" ) 

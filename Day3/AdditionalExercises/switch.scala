@@ -2,7 +2,7 @@ object SwitchDemo {
 
    def main (args: Array[String]) = {
 	
-	val x = 30
+	val x = 3
 
 	x match {
 	    case 1 => println ("One")
